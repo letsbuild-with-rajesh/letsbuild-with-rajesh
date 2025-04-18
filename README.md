@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rajesh
-- 👀 I’m interested in a lot of tech stuff - Gadgets, News, Web and Mobile apps, Latest trends
-- 🌱 I’m currently learning Mobile App Development
+- 👀 I’m interested in a lot of tech stuff - Gadgets, News, Web and AI/ML, Latest trends
+- 🌱 I’m currently learning AI/ML
 
 <!---
 - 💞️ I’m looking to collaborate on 
