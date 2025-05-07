@@ -1,6 +1,10 @@
-- 👋 Hi, I’m Rajesh
-- 👀 I’m interested in a lot of tech stuff - Gadgets, News, Web and AI/ML, Latest trends
-- 🌱 I’m currently learning AI/ML
+# 👨‍💻 Senior Software Engineer | 7+ Years of Expertise 🚀
+
+- 🔧Specializing in Full-Stack Development with React, Next.js, Node.js, Python, and AI/ML.
+- 💡Experienced in building scalable, high-performance applications at Justdial & Groupon.
+- 🎓Pursuing M.Tech in AI/ML at IIT Jammu.
+- 🌐Core skills: Full-Stack, Python, AI/ML, Cloud, DevOps, Microservices.
+- ⚡Passionate about innovative solutions & cutting-edge technologies!
 
 <!---
 - 💞️ I’m looking to collaborate on 
